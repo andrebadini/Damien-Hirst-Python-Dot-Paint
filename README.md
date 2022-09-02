@@ -1,5 +1,5 @@
-# Damien Hirst Python Dot Paint
-A simple 100 (10x10) dots painting done with Python code using Turtle Graphics and random colors picked up (with "colorgram") from a painting image by Damienst Hirst. 
+# Dot painting made with Python code inspired by the art of Damien Hirst
+A simple 100 (10x10) dots painting done with Python code using Turtle Graphics and random colors picked up (with "colorgram") from a painting image of Damienst Hirst. 
 
 Also see the spirograph version at: https://github.com/andrebadini/damienHirstPythonSpireographPainting
 
